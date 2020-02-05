@@ -1,3 +1,5 @@
+**INSTALLED ON 192.168.111.15 on 02-05-2020**
+
 .. image:: http://etal.mbnet.fi/libresignage/logo/libresignage_text_466x100.png
     
 A free and open source digital signage solution.
